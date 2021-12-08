@@ -1,0 +1,5 @@
+allure-pytest==2.9.45
+playwright==1.17.2
+pytest==6.2.5
+selene==2.0.0a40
+selenium~=3.141.0
